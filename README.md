@@ -59,5 +59,3 @@ This dashboard demonstrates the use of Tableau to transform raw Airbnb data into
 ## Author
 
 **Ragav**
-
-Aspiring Data Analyst | Excel | SQL | Tableau | Python
